@@ -1,4 +1,6 @@
 {
+  "name": "toggl with wings cli",
+  "version": "1.0.0",
   "dependencies": {
     "@clack/prompts": "^0.7.0",
     "dayjs": "^1.11.13",
