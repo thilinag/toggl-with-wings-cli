@@ -1,5 +1,5 @@
 {
-  "name": "toggl with wings cli",
+  "name": "toggl-with-wings-cli",
   "version": "1.0.0",
   "dependencies": {
     "@clack/prompts": "^0.7.0",
